@@ -1,5 +1,5 @@
-# ส่งงาน 68030063 ชิาณุพัศก์ 
-![ภาพแรก](/img/finals.png)
+# ส่งงาน 68030063 ชิษณุพัศก์ 
+![alt text](finals.png)
 
 ## ข้อ 1 
 ![alt text](<git commit.png>)
